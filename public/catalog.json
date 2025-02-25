@@ -1,0 +1,342 @@
+[
+  {
+    "id": "0001",
+    "name": "Chaussettes montantes",
+    "brand": "Lacoste",
+    "category": "socks",
+    "color": "white",
+    "subcategory": "high",
+    "image": "https://res.cloudinary.com/denmmbzsl/image/upload/v1740487466/lacoste-chaussettes-blanc_uh2ftx.avif",
+    "url": "https://www.lacoste.com/fr/lacoste/homme/vetements/chaussettes/RA3147-00.html?color=001"
+  },
+  {
+    "id": "0002",
+    "name": "Chaussettes montantes",
+    "brand": "Lacoste",
+    "category": "socks",
+    "color": "black",
+    "subcategory": "high",
+    "image": "https://res.cloudinary.com/denmmbzsl/image/upload/v1740482111/lacoste-chaussettes-noir_yycumi.avif",
+    "url": "https://www.lacoste.com/fr/lacoste/homme/vetements/chaussettes/RA8142-00.html?color=031"
+  },
+  {
+    "id": "0003",
+    "name": "Chaussettes montantes",
+    "brand": "Lacoste",
+    "category": "socks",
+    "color": "green",
+    "subcategory": "high",
+    "image": "https://res.cloudinary.com/denmmbzsl/image/upload/v1740482116/lacoste-chaussettes-vert_kciu07.jpg",
+    "url": ""
+  },
+  {
+    "id": "0004",
+    "name": "Ceinture L.12.12",
+    "brand": "Lacoste",
+    "category": "belt",
+    "color": "white",
+    "subcategory": "sport",
+    "image": "https://res.cloudinary.com/denmmbzsl/image/upload/v1740481256/lacoste-ceinture-blanc_wbibqy.avif",
+    "url": "https://www.lacoste.com/fr/lacoste/homme/accessoires/ceintures/RC2012.html?color=001"
+  },
+  {
+    "id": "0005",
+    "name": "Claquettes Serve Slide 1.0",
+    "brand": "Lacoste",
+    "category": "shoes",
+    "color": "white",
+    "subcategory": "slides",
+    "image": "https://res.cloudinary.com/denmmbzsl/image/upload/v1740480583/products/shoes/ownb48zifvjecrw0mlqe.avif",
+    "url": "https://www.lacoste.com/fr/lacoste/homme/chaussures/claquettes-sandales/48CMA0023.html?color=082"
+  },
+  {
+    "id": "0006",
+    "name": "Sneakers L003 Evo",
+    "brand": "Lacoste",
+    "category": "shoes",
+    "color": "green",
+    "subcategory": "sport",
+    "image": "https://res.cloudinary.com/denmmbzsl/image/upload/v1740487550/lacoste-basket-vert_k47aqb.jpg",
+    "url": "https://www.lacoste.com/fr/lacoste/homme/chaussures/sneakers/47SMA0121.html?color=255"
+  },
+  {
+    "id": "0007",
+    "name": "Sneakers L003 Evo",
+    "brand": "Lacoste",
+    "category": "shoes",
+    "color": "white",
+    "subcategory": "sport",
+    "image": "https://res.cloudinary.com/denmmbzsl/image/upload/v1740487548/lacoste-basket-blanc_tu6ggy.avif",
+    "url": "https://www.lacoste.com/fr/lacoste/homme/chaussures/sneakers/48SMA0053.html?color=21G"
+  },
+  {
+    "id": "0008",
+    "name": "Sneakers L001 Set",
+    "brand": "Lacoste",
+    "category": "shoes",
+    "color": "black",
+    "subcategory": "relax",
+    "image": "https://res.cloudinary.com/denmmbzsl/image/upload/v1740487553/lacoste-sneakers-noir_xenrmm.avif",
+    "url": "https://www.lacoste.com/fr/lacoste/homme/chaussures/sneakers/48SMA0018.html?color=312"
+  },
+  {
+    "id": "0009",
+    "name": "Sneakers T-Clip Set",
+    "brand": "Lacoste",
+    "category": "shoes",
+    "color": "white",
+    "subcategory": "relax",
+    "image": "https://res.cloudinary.com/denmmbzsl/image/upload/v1740487549/lacoste-sneakers-blanc-2_a4kebr.avif",
+    "url": "https://www.lacoste.com/fr/lacoste/homme/chaussures/sneakers/48SMA0031.html?color=21G"
+  },
+  {
+    "id": "0010",
+    "name": "Sneakers Linetrack",
+    "brand": "Lacoste",
+    "category": "shoes",
+    "color": "white",
+    "subcategory": "relax",
+    "image": "https://res.cloudinary.com/denmmbzsl/image/upload/v1740487551/lacoste-sneakers-blanc_wpp23c.avif",
+    "url": "https://www.lacoste.com/fr/lacoste/homme/chaussures/sneakers/46SMA0012.html?color=082"
+  },
+  {
+    "id": "0011",
+    "name": "Chaussures de golf G Elite",
+    "brand": "Lacoste",
+    "category": "shoes",
+    "color": "white",
+    "subcategory": "golf",
+    "image": "https://res.cloudinary.com/denmmbzsl/image/upload/v1740481269/lacoste-chaussures-golf-blanc_xwvdfz.avif",
+    "url": "https://www.lacoste.com/fr/lacoste/homme/chaussures/performance/47SMA0027.html?color=1R5"
+  },
+  {
+    "id": "0012",
+    "name": "Jean 5 poches indigo slim fit",
+    "brand": "Lacoste",
+    "category": "pants",
+    "color": "blue",
+    "subcategory": "jeans",
+    "image": "https://res.cloudinary.com/denmmbzsl/image/upload/v1740487971/lacoste-pantalon-jeans-bleu_g723ta.avif",
+    "url": "https://www.lacoste.com/fr/lacoste/homme/vetements/pantalons-shorts/HH5019-00.html?color=ML4"
+  },
+  {
+    "id": "0013",
+    "name": "Pantalon chino Golf slim fit Ultra Dry",
+    "brand": "Lacoste",
+    "category": "pants",
+    "color": "blue",
+    "subcategory": "golf",
+    "image": "https://res.cloudinary.com/denmmbzsl/image/upload/v1740481228/lacoste-pantalon-golf-bleu_ishaq2.avif",
+    "url": "https://www.lacoste.com/fr/lacoste/homme/vetements/pantalons-shorts/HH0921-00.html?color=166"
+  },
+  {
+    "id": "0014",
+    "name": "Pantalon chino Golf slim fit Ultra Dry",
+    "brand": "Lacoste",
+    "category": "pants",
+    "color": "beige",
+    "subcategory": "golf",
+    "image": "https://res.cloudinary.com/denmmbzsl/image/upload/v1740482143/lacoste-pantalon-golf-beige_avzpwl.jpg",
+    "url": "https://www.lacoste.com/fr/lacoste/homme/vetements/pantalons-shorts/HH0921-00.html?color=02S"
+  },
+  {
+    "id": "0015",
+    "name": "Pantalon de survêtement slim fit",
+    "brand": "Lacoste",
+    "category": "pants",
+    "color": "green",
+    "subcategory": "sweatpants",
+    "image": "https://res.cloudinary.com/denmmbzsl/image/upload/v1740487954/lacoste-pantalon-jogging-vert_gevg5d.avif",
+    "url": "https://www.lacoste.com/fr/lacoste/homme/vetements/pantalons-shorts/pantalons-de-survetement/XH9624-00.html?color=316"
+  },
+  {
+    "id": "0016",
+    "name": "Pantalon de survêtement slim fit",
+    "brand": "Lacoste",
+    "category": "pants",
+    "color": "brown",
+    "subcategory": "sweatpants",
+    "image": "https://res.cloudinary.com/denmmbzsl/image/upload/v1740487979/lacoste-pantalon-jogging-marron_tz1zeq.avif",
+    "url": "https://www.lacoste.com/fr/lacoste/homme/vetements/pantalons-shorts/pantalons-de-survetement/XH9624-00.html?color=SIX"
+  },
+  {
+    "id": "0017",
+    "name": "Jogging d'intérieur molleton",
+    "brand": "Lacoste",
+    "category": "pants",
+    "color": "green",
+    "subcategory": "indoor",
+    "image": "https://res.cloudinary.com/denmmbzsl/image/upload/v1740487977/lacoste-pantalon-interieur-vert_ztadsr.jpg",
+    "url": "https://www.lacoste.com/fr/lacoste/homme/vetements/sous-vetements-vetements-d-interieur/vetements-d-interieur-1/3H5422-00.html?color=IA6"
+  },
+  {
+    "id": "0018",
+    "name": "Jogging d'intérieur molleton",
+    "brand": "Lacoste",
+    "category": "pants",
+    "color": "grey",
+    "subcategory": "indoor",
+    "image": "https://res.cloudinary.com/denmmbzsl/image/upload/v1740482137/lacoste-pantalon-interieur-gris_hhvx1v.avif",
+    "url": "https://www.lacoste.com/fr/lacoste/homme/vetements/sous-vetements-vetements-d-interieur/vetements-d-interieur-1/3H5422-00.html?color=Y9K"
+  },
+  {
+    "id": "0019",
+    "name": "Polo Golf classic fit protection UV",
+    "brand": "Lacoste",
+    "category": "polo",
+    "color": "white",
+    "subcategory": "short",
+    "image": "https://res.cloudinary.com/denmmbzsl/image/upload/v1740487974/lacoste-polo-golf-blanc_ptg0qa.avif",
+    "url": "https://www.lacoste.com/fr/lacoste/homme/vetements/polos/manches-courtes/DH9309-00.html?color=800"
+  },
+  {
+    "id": "0020",
+    "name": "Polo regular fit coton polyester",
+    "brand": "Lacoste",
+    "category": "polo",
+    "color": "green",
+    "subcategory": "short",
+    "image": "https://res.cloudinary.com/denmmbzsl/image/upload/v1740481228/lacoste-polo-vert_t9jibt.avif",
+    "url": "https://www.lacoste.com/fr/lacoste/homme/vetements/polos/manches-courtes/DH0783-00.html?color=132"
+  },
+  {
+    "id": "0021",
+    "name": "Polo regular fit en coton mélangé",
+    "brand": "Lacoste",
+    "category": "polo",
+    "color": "blue",
+    "subcategory": "short",
+    "image": "https://res.cloudinary.com/denmmbzsl/image/upload/v1740481228/lacoste-polo-bleu_rgufnc.avif",
+    "url": "https://www.lacoste.com/fr/lacoste/homme/vetements/polos/manches-courtes/DH5522-00.html?color=T01"
+  },
+  {
+    "id": "0022",
+    "name": "Polo regular fit coton Pima",
+    "brand": "Lacoste",
+    "category": "polo",
+    "color": "red",
+    "subcategory": "short",
+    "image": "https://res.cloudinary.com/denmmbzsl/image/upload/v1740481228/lacoste-polo-rouge_aji8ak.avif",
+    "url": "https://www.lacoste.com/fr/lacoste/homme/vetements/polos/manches-courtes/DH2050-00.html?color=IXX"
+  },
+  {
+    "id": "0023",
+    "name": "Polo Paris regular fit en Piqué stretch",
+    "brand": "Lacoste",
+    "category": "polo",
+    "color": "white",
+    "subcategory": "long",
+    "image": "https://res.cloudinary.com/denmmbzsl/image/upload/v1740481229/lacoste-polo-long-blanc_ymsbd9.avif",
+    "url": "https://www.lacoste.com/fr/lacoste/homme/vetements/polos/manches-longues/PH2481-00.html?color=001"
+  },
+  {
+    "id": "0024",
+    "name": "Sweatshirt à capuche zippé molleton",
+    "brand": "Lacoste",
+    "category": "Sweatshirt",
+    "color": "black",
+    "subcategory": "hoody",
+    "image": "https://res.cloudinary.com/denmmbzsl/image/upload/v1740494129/lacoste-hoody-black_v3ndik.avif",
+    "url": "https://www.lacoste.com/fr/lacoste/homme/vetements/sweatshirts/SH9626-00.html?color=031"
+  },
+  {
+    "id": "0025",
+    "name": "Pantalon chino slim coton stretch",
+    "brand": "Lacoste",
+    "category": "pants",
+    "color": "red",
+    "subcategory": "chino",
+    "image": "https://res.cloudinary.com/denmmbzsl/image/upload/v1740496287/lacoste-pantalon-chino-slim-red_hqxjak.avif",
+    "url": "https://www.lacoste.com/fr/lacoste/homme/vetements/pantalons-shorts/HH3463-00.html?color=BZD"
+  },
+  {
+    "id": "0026",
+    "name": "Pantalon chino slim coton stretch",
+    "brand": "Lacoste",
+    "category": "pants",
+    "color": "green",
+    "subcategory": "chino",
+    "image": "https://res.cloudinary.com/denmmbzsl/image/upload/v1740487968/lacoste-pantalon-chino-vert_t5zbww.avif",
+    "url": "https://www.lacoste.com/fr/lacoste/homme/vetements/pantalons-shorts/HH3463-00.html?color=BMY"
+  },
+  {
+    "id": "0027",
+    "name": "Pantalon chino slim coton stretch",
+    "brand": "Lacoste",
+    "category": "pants",
+    "color": "beige",
+    "subcategory": "chino",
+    "image": "https://res.cloudinary.com/denmmbzsl/image/upload/v1740487964/lacoste-pantalon-chino-beige_zshc3z.avif",
+    "url": "https://www.lacoste.com/fr/lacoste/homme/vetements/pantalons-shorts/HH3463-00.html?color=CB8"
+  },
+  {
+    "id": "0028",
+    "name": "T-shirt manches longues coton Pima",
+    "brand": "Lacoste",
+    "category": "t-shirt",
+    "color": "white",
+    "subcategory": "long",
+    "image": "https://res.cloudinary.com/denmmbzsl/image/upload/v1740487965/lacoste-t-shirt-long-blanc_nrhqsz.avif",
+    "url": "https://www.lacoste.com/fr/lacoste/homme/vetements/t-shirts/TH6712-00.html?color=001"
+  },
+  {
+    "id": "0029",
+    "name": "T-shirt manches longues coton Pima",
+    "brand": "Lacoste",
+    "category": "t-shirt",
+    "color": "black",
+    "subcategory": "long",
+    "image": "https://res.cloudinary.com/denmmbzsl/image/upload/v1740480562/products/clothes/ro3h3h4dn40vhysbvund.avif",
+    "url": "https://www.lacoste.com/fr/lacoste/homme/vetements/t-shirts/TH6712-00.html?color=031"
+  },
+  {
+    "id": "0030",
+    "name": "Pantalon de survêtement Sport respirant",
+    "brand": "Lacoste",
+    "category": "pants",
+    "color": "grey",
+    "subcategory": "sport",
+    "image": "https://res.cloudinary.com/denmmbzsl/image/upload/v1740481229/lacoste-pantalon-interieur-gris_b97hqf.avif",
+    "url": "https://www.lacoste.com/fr/lacoste/homme/vetements/pantalons-shorts/pantalons-de-survetement/XH8913-00.html?color=9YA"
+  },
+  {
+    "id": "0031",
+    "name": "Pantalon de survêtement Sport respirant",
+    "brand": "Lacoste",
+    "category": "pants",
+    "color": "blue",
+    "subcategory": "sport",
+    "image": "https://res.cloudinary.com/denmmbzsl/image/upload/v1740481228/lacoste-pantalon-jogging-bleu_aaz8cx.avif",
+    "url": "https://www.lacoste.com/fr/lacoste/homme/vetements/pantalons-shorts/pantalons-de-survetement/XH8913-00.html?color=423"
+  },
+  {
+    "id": "0032",
+    "name": "Pull en laine mérinos col rond",
+    "brand": "Lacoste",
+    "category": "sweater",
+    "color": "brown",
+    "subcategory": "merinos",
+    "image": "https://res.cloudinary.com/denmmbzsl/image/upload/v1740487975/lacoste-pull-merinos-beige_yjas55.avif",
+    "url": "https://www.lacoste.com/fr/lacoste/homme/vetements/pullovers/AH1969-00.html?color=SIX"
+  },
+  {
+    "id": "0033",
+    "name": "Chemise slim fit chambray de coton",
+    "brand": "Lacoste",
+    "category": "shirt",
+    "color": "blue",
+    "subcategory": "long",
+    "image": "https://res.cloudinary.com/denmmbzsl/image/upload/v1740487951/lacoste-chemise-bleu_v5rly1.avif",
+    "url": "https://www.lacoste.com/fr/lacoste/homme/vetements/chemises/manches-longues/CH2573-00.html?color=HHW"
+  },
+  {
+    "id": "0034",
+    "name": "Chemise slim fit chambray de coton",
+    "brand": "Lacoste",
+    "category": "shirt",
+    "color": "blue",
+    "subcategory": "long",
+    "image": "https://res.cloudinary.com/denmmbzsl/image/upload/v1740480572/products/clothes/hwbdu9e59dznxvxk2jrb.avif",
+    "url": "https://www.lacoste.com/fr/lacoste/homme/vetements/chemises/manches-longues/CH2573-00.html?color=FV2"
+  }
+]

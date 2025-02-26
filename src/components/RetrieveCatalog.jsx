@@ -27,10 +27,14 @@ function RetrieveCatalog() {
   if (loading) return <p>Chargement...</p>;
   if (error) return <p>Erreur : {error}</p>;
   return (
-    <div>
+    <div className="container mt-4">
+      <div className="row">
       {catalog.map((product) => (
+        <div key={product.id} className="col-md-4 col-sm-6 mb-4">
         <ProductCard key={product.id} product={product} />
+        </div>
       ))}
+      </div>
     </div>
   );
 }

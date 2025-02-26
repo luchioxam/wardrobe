@@ -348,5 +348,45 @@
     "subcategory": "long",
     "image": "https://res.cloudinary.com/denmmbzsl/image/upload/v1740556224/products/clothes/fml3yd9tbevvymwgzsux.avif",
     "url": "https://www.lacoste.com/fr/lacoste/homme/vetements/manteaux-vestes/BH2909-00.html?color=SIX"
+  },
+  {
+    "id": "0036",
+    "name": "Doudoune sans manches",
+    "brand": "Lacoste",
+    "category": "puffer",
+    "color": "green",
+    "subcategory": "short",
+    "image": "https://res.cloudinary.com/denmmbzsl/image/upload/v1740560421/lacoste-doudoune-vert_vau4qw.webp",
+    "url": ""
+  },
+  {
+    "id": "0037",
+    "name": "Pullover col V",
+    "brand": "Lacoste",
+    "category": "sweater",
+    "color": "black",
+    "subcategory": "coton",
+    "image": "https://res.cloudinary.com/denmmbzsl/image/upload/v1740561336/lacoste-pull-coton-noir_eo30vj.webp",
+    "url": ""
+  },
+  {
+    "id": "0038",
+    "name": "Veste mi-saison",
+    "brand": "Lacoste",
+    "category": "jacket",
+    "color": "black",
+    "subcategory": "sport",
+    "image": "https://res.cloudinary.com/denmmbzsl/image/upload/v1740561572/veste_pluie-noir_jqtqbo.webp",
+    "url": ""
+  },
+  {
+    "id": "0039",
+    "name": "",
+    "brand": "Lacoste",
+    "category": "",
+    "color": "",
+    "subcategory": "",
+    "image": "",
+    "url": ""
   }
 ]

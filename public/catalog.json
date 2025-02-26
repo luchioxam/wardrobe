@@ -338,5 +338,15 @@
     "subcategory": "long",
     "image": "https://res.cloudinary.com/denmmbzsl/image/upload/v1740480572/products/clothes/hwbdu9e59dznxvxk2jrb.avif",
     "url": "https://www.lacoste.com/fr/lacoste/homme/vetements/chemises/manches-longues/CH2573-00.html?color=FV2"
+  },
+  {
+    "id": "0035",
+    "name": "Doudoune à capuche rembourrée déperlante",
+    "brand": "Lacoste",
+    "category": "puffer",
+    "color": "brown",
+    "subcategory": "long",
+    "image": "https://res.cloudinary.com/denmmbzsl/image/upload/v1740556224/products/clothes/fml3yd9tbevvymwgzsux.avif",
+    "url": "https://www.lacoste.com/fr/lacoste/homme/vetements/manteaux-vestes/BH2909-00.html?color=SIX"
   }
 ]
